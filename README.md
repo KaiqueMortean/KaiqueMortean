@@ -8,3 +8,7 @@
 </div>
 
 [![Kaique Mortean github activity graph](https://activity-graph.herokuapp.com/graph?username=KaiqueMortean&theme=high-contrast&color=FF0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p aligh="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KaiqueMortean&theme=dracula&row=2&no-bg=true&colum=3&margin-w=15&margin-h=15" />
+</p>
